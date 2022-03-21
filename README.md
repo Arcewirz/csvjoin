@@ -15,5 +15,8 @@ This repository contains CLI program designed for joining TWO csv tables. Diffre
 2. Install required python packages:
 `pip3 install -r requirements.txt`
 3. See the instructions by typing:
-`python3 join.py --help`
+`python3 join.py --help` or `./join.py --help`
 4. Have fun joining!
+
+## Installation on linux
+While in repository directory go with `sudo cp join.py /usr/bin/csvjoin` to install this commad directly in your system!
